@@ -22,11 +22,11 @@
   display: none;
 }
 
-#wall #tag-3 {
+#wall .parent #tag-3 {
   display: none;
 }
 
-.tag-4 {
+#wall .tag-4 {
   display: none;
 }
 
