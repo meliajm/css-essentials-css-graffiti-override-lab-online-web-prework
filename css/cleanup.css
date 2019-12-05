@@ -10,3 +10,13 @@
   display: none;
 }
 
+/*<div id="wall">*/
+/*    <div class="tag-1"></div>*/
+/*    <div id="tag-2"></div>*/
+/*    <div id="tag-3" class="slick wicked"></div>*/
+/*    <div class="parent">*/
+/*      <div id="tag-4"></div>*/
+/*    </div>*/
+#wall #tag-2 {
+  display: none;
+}
