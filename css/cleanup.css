@@ -22,6 +22,9 @@
   display: none;
 }
 
+#wall #tag-2 {
+  display: none;
+}
 #wall .parent #tag-3 {
   display: none;
 }
