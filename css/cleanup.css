@@ -23,9 +23,11 @@
 }
 
 
-#wall .parent #tag-3 {
+#wall #tag-3.slick {
   display: none;
 }
+
+
 
 #wall .tag-4 {
   display: none;
